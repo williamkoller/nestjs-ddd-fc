@@ -13,4 +13,6 @@
 
 - run `yarn up` that exec command `docker-compose down && docker-compose up --build`
 
+### Test Coverage
 
+<img src="/imgs/test-cov.png">
